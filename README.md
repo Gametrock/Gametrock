@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gametrock
+- 😉 I currently know Lua, JS, C#, Python (First to Last Order)
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning C++
+- 📫 How to reach me? Contact me on discord! Gametrock#4835
